@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.cache/
+tmp/
+output/
+*.wav
+.env
+.DS_Store
+class recordings /
+class recordings/
+*.mp4
+*.vtt
+.streamlit/secrets.toml
